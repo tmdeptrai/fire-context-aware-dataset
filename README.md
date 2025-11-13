@@ -5,11 +5,11 @@ A dataset created for surveying/training Visual Language Models (VLM) to underst
 
 ```
 fire-context-aware-dataset/
-├── original_dataset/
+├── dataset_v2/
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
-└── labels.csv
+└── labels_v2.csv
 ```
 
 ## Labels Format
