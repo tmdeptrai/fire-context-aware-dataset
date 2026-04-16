@@ -69,3 +69,7 @@ If you need to use this dataset, please cite the paper: https://doi.org/10.1038/
 ```
 GIANG, A.T., DOAN, N.Q., TRAN, M.D. et al. Towards efficient context-aware classification with compact VLM architectures: indoor fire case study. Sci Rep (2026). https://doi.org/10.1038/s41598-026-48743-5
 ```
+
+Licence Applicable to the Article:
+Creative Commons licence CC BY: This licence permits use, duplication, adaptation, distribution and reproduction in any medium or
+format, as long as appropriate credit is given to the original author(s) and the source.
