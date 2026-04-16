@@ -31,7 +31,7 @@ original_dataset/image1025.jpg,dangerous fire,"The image shows a kitchen with fl
 
 ![Sample Batch 2](sample2.png)
 
-## 📚 Dataset Sources & Credits
+## Dataset Sources & Credits
 
 This project uses datasets from the following sources:
 
@@ -60,3 +60,12 @@ This project uses datasets from the following sources:
    Description: A lightweight fire dataset used in early CNN-based fire detection research, with cropped fire/non-fire examples.
 
 All datasets are used strictly for education, research and non-commercial purposes.
+
+
+## Citation
+
+If you need to use this dataset, please cite the paper: https://doi.org/10.1038/s41598-026-48743-5
+
+```
+GIANG, A.T., DOAN, N.Q., TRAN, M.D. et al. Towards efficient context-aware classification with compact VLM architectures: indoor fire case study. Sci Rep (2026). https://doi.org/10.1038/s41598-026-48743-5
+```
