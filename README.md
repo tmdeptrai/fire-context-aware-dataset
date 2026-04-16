@@ -5,11 +5,11 @@ A dataset created for surveying/training Visual Language Models (VLM) to underst
 
 ```
 fire-context-aware-dataset/
-├── dataset_v2/
+├── CONFIRE/
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
-└── labels_v2.csv
+└── CONFIRE.csv
 ```
 
 ## Labels Format
@@ -67,7 +67,8 @@ All datasets are used strictly for education, research and non-commercial purpos
 If you need to use this dataset, please cite the paper: https://doi.org/10.1038/s41598-026-48743-5
 
 ```
-GIANG, A.T., DOAN, N.Q., TRAN, M.D. et al. Towards efficient context-aware classification with compact VLM architectures: indoor fire case study. Sci Rep (2026). https://doi.org/10.1038/s41598-026-48743-5
+GIANG, A.T., DOAN, N.Q., TRAN, M.D. et al. Towards efficient context-aware classification with compact VLM architectures: indoor fire case study. 
+Sci Rep (2026). https://doi.org/10.1038/s41598-026-48743-5
 ```
 
 Licence Applicable to the Article:
